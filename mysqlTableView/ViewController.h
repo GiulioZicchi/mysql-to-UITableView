@@ -12,7 +12,6 @@
 #import "gzHTTP.h"
 #import <sqlite3.h>
 #import "gzCustomHeader.h"
-#import "WASdetailViewController.h"
 #import "detailViewController.h"
 
 

@@ -18,7 +18,6 @@
 		4ECC5EEE1B6C4133003142FB /* gzCustomHeader.m in Sources */ = {isa = PBXBuildFile; fileRef = 4ECC5EED1B6C4133003142FB /* gzCustomHeader.m */; };
 		4ECC5EF01B6C4629003142FB /* caretOpen.png in Resources */ = {isa = PBXBuildFile; fileRef = 4ECC5EEF1B6C4629003142FB /* caretOpen.png */; };
 		4ECC5EF21B6C4708003142FB /* caretClosed.png in Resources */ = {isa = PBXBuildFile; fileRef = 4ECC5EF11B6C4708003142FB /* caretClosed.png */; };
-		4EF012D01B67C94300535B67 /* WASdetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4EF012CF1B67C94300535B67 /* WASdetailViewController.m */; };
 		4EF012E91B682E3700535B67 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4EF012E81B682E3700535B67 /* Default-568h@2x.png */; };
 /* End PBXBuildFile section */
 
@@ -53,8 +52,6 @@
 		4ECC5EED1B6C4133003142FB /* gzCustomHeader.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = gzCustomHeader.m; sourceTree = "<group>"; };
 		4ECC5EEF1B6C4629003142FB /* caretOpen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = caretOpen.png; sourceTree = "<group>"; };
 		4ECC5EF11B6C4708003142FB /* caretClosed.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = caretClosed.png; sourceTree = "<group>"; };
-		4EF012CE1B67C94300535B67 /* WASdetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WASdetailViewController.h; sourceTree = "<group>"; };
-		4EF012CF1B67C94300535B67 /* WASdetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WASdetailViewController.m; sourceTree = "<group>"; };
 		4EF012D11B67ED1B00535B67 /* defines.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = defines.h; sourceTree = "<group>"; };
 		4EF012E81B682E3700535B67 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -108,8 +105,6 @@
 				4E8498B81B727BD1005C4E0C /* detailViewController.h */,
 				4E8498B91B727BD1005C4E0C /* detailViewController.m */,
 				4E8498BA1B727BD1005C4E0C /* detailViewController.xib */,
-				4EF012CE1B67C94300535B67 /* WASdetailViewController.h */,
-				4EF012CF1B67C94300535B67 /* WASdetailViewController.m */,
 				4E53D3191B64F35900B5B8FE /* gzHTTP.h */,
 				4E53D31A1B64F35900B5B8FE /* gzHTTP.m */,
 				4ECC5EEC1B6C4133003142FB /* gzCustomHeader.h */,
@@ -270,7 +265,6 @@
 				4E53D2FC1B64DE9F00B5B8FE /* ViewController.m in Sources */,
 				4ECC5EEE1B6C4133003142FB /* gzCustomHeader.m in Sources */,
 				4E8498BB1B727BD1005C4E0C /* detailViewController.m in Sources */,
-				4EF012D01B67C94300535B67 /* WASdetailViewController.m in Sources */,
 				4E53D2F91B64DE9F00B5B8FE /* AppDelegate.m in Sources */,
 				4E53D2F61B64DE9F00B5B8FE /* main.m in Sources */,
 			);

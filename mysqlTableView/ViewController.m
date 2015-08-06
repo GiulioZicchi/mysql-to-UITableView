@@ -6,6 +6,13 @@
 //  Created by Giulio Zicchi on 26/07/2015.
 //  Copyright (c) 2015 Giulio Zicchi. All rights reserved.
 //
+//------------------------------------------------------------------------------------------------------------
+// demonstration of populating a UITableView with json data from a remote server
+//
+// creates custom expanding / collapsing headers from fields in a mySql wine database
+//
+//------------------------------------------------------------------------------------------------------------
+
 
 #import "ViewController.h"
 #import "gzHTTP.h"
