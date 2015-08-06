@@ -10,6 +10,10 @@
 // demonstration of populating a UITableView with json data from a remote server
 //
 // creates custom expanding / collapsing headers from fields in a mySql wine database
+// and calls a detail ViewController when a particular wine, or its accessory button, is tapped
+// demonstrates use of custom headers, and precludes use of sqlite by filtering data
+// according to results of requests to php page on server
+//
 //
 //------------------------------------------------------------------------------------------------------------
 
