@@ -87,6 +87,12 @@ static bool collapsed[0];
     myTableView.autoresizingMask = (UIViewAutoresizingFlexibleHeight | UIViewAutoresizingFlexibleWidth);
     myTableView.autoresizesSubviews = true;
     
+    if(NSFoundationVersionNumber > NSFoundationVersionNumber_iOS_8_1)
+    {
+        myTableView.cellLayoutMarginsFollowReadableWidth = NO;
+    }
+
+    
     [self.view addSubview:myTableView];
     
     //--------------------------------------------------------------------
